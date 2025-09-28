@@ -1,5 +1,7 @@
+
+![image](3.png)
+
 ## Hi, i'm Joshua Kimathi 👋
-![image](1.svg)
 
 <!--
 **hakimizz-tech/hakimizz-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
