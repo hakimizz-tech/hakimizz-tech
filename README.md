@@ -142,20 +142,7 @@ goals:
 </tr>
 </table>
 
----
 
-## 📌 Pinned Projects
-
-<p align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-1&theme=monokai)](https://github.com/hakimizz-tech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-2&theme=monokai)](https://github.com/hakimizz-tech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-3&theme=monokai)](https://github.com/hakimizz-tech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-4&theme=monokai)](https://github.com/hakimizz-tech)
-
-</p>
-
----
 
 ## ✍️ Writing
 
