@@ -2,11 +2,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=ffc845&center=true&vCenter=true&width=435&lines=Welcome+...+happy+you're+here!;
-      Building+APIs%2C+Debugging+Pipelines;Python+%7C+Django+%7C+React+%7C+Nairobi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=ffc845&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Nairobi%2C+KE;Python+%2F+Django+%2F+React+%2F+TypeScript;Backend+systems+that+actually+ship;Open+to+collaborate+%E2%80%94+check+the+repos" alt="Typing SVG" />
   </a>
 </p>
-
 > *"If you can't explain it simply, you don't understand it well enough."* — Albert Einstein
 
 <p align="left">
