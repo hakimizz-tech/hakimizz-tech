@@ -144,26 +144,6 @@ goals:
 
 
 
-## ✍️ Writing
-
-I write about Python, backend systems, and software engineering on Medium — Django, REST design,
-Elasticsearch, and things I've learned shipping to production.
-
-→ [medium.com/@joshuakim408](https://medium.com/@joshuakim408)
-
----
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hakimizz-tech&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&include_all_commits=true" align="center"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hakimizz-tech&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align="center"/>
-</p>
-
-[![Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hakimizz-tech&theme=react-dark&area=true&hide_border=true&color=ffc845)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
----
-
 🟢 **Open to work and collaboration** — reach me at [joshuakim408@gmail.com](mailto:joshuakim408@gmail.com)
 
 ------
