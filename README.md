@@ -1,59 +1,172 @@
+# 🐍 Joshua Kimathi @hakimizz-tech
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&pause=1000&color=ffc845&center=true&vCenter=true&width=435&lines=Welcome+...+happy+you're+here!;Building+APIs%2C+Debugging+Pipelines;Python+%7C+Django+%7C+React+%7C+Nairobi" alt="Typing SVG" />
+  </a>
+</p>
+
+> *"If you can't explain it simply, you don't understand it well enough."* — Albert Einstein
+
+<p align="left">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-kimathi-hakeem)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joshuakim408)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuakim408@gmail.com)
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/hakimizz-tech?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/hakimizz-tech?tab=followers)
+
+</p>
+
 ```
-> whoami
+Digital Craftsman: (Backend Engineer / Problem Solver / Open Source Enthusiast)...
+
+ ██╗  ██╗ █████╗ ██╗  ██╗██╗███╗   ███╗██╗███████╗███████╗
+ ██║  ██║██╔══██╗██║ ██╔╝██║████╗ ████║██║╚══███╔╝╚════██║
+ ███████║███████║█████╔╝ ██║██╔████╔██║██║  ███╔╝     ██╔╝
+ ██╔══██║██╔══██║██╔═██╗ ██║██║╚██╔╝██║██║ ███╔╝     ██╔╝
+ ██║  ██║██║  ██║██║  ██╗██║██║ ╚═╝ ██║██║███████╗   ██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝╚══════╝   ╚═╝
 ```
 
-# Joshua Kimathi
+<p>
+Hello! I'm a software engineer based in Nairobi, Kenya. I love building backend systems that solve real problems — mostly with Python, Django, and Flask. When the backend needs a face I reach for React and TypeScript. Outside of code I play guitar, hit the gym, and write about what I'm learning. My technical interests include distributed systems, search infrastructure, web development, and open source.
+</p>
 
-**software engineer · nairobi, ke**
+<img align="right" width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
 
-I build backend systems with Python. Mostly Django and Flask —
-production APIs, async workers, search infrastructure. When the backend needs a face,
-I reach for React and TypeScript. Open to collaboration on Python and JavaScript projects.
+```yaml
+name: Joshua Kimathi
+located_in: Nairobi, Kenya
+current_job: Software Engineer
+usernames: ["@hakimizz-tech", "@joshuakim408"]
+email: joshuakim408@gmail.com
+blog: "https://medium.com/@joshuakim408"
 
-🟢 &nbsp;**Available for work & collaboration**
+currently_building:
+  - "Production REST APIs with Django + DRF"
+  - "Search pipelines with Elasticsearch"
+  - "Async task workers with RabbitMQ + Celery"
+
+field_of_interests:
+  - "distributed systems"
+  - "search infrastructure"
+  - "open source"
+
+misc_interests:
+  - "guitar"
+  - "gym"
+  - "writing"
+  - "mathematics"
+
+goals:
+  - "Ship something every day"
+  - "Contribute consistently to open source"
+  - "Land a senior engineering role"
+```
+
+<table style="width:100%">
+<tr>
+  <td>🧰 Languages</td>
+  <td>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+  </td>
+</tr>
+<tr>
+  <td>⚙️ Backend</td>
+  <td>
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+  </td>
+</tr>
+<tr>
+  <td>⚛️ Frontend</td>
+  <td>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+
+  </td>
+</tr>
+<tr>
+  <td>🗄️ Data</td>
+  <td>
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+  </td>
+</tr>
+<tr>
+  <td>🛠️ Infra & Tools</td>
+  <td>
+
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  </td>
+</tr>
+</table>
 
 ---
 
-```
-// currently building
-```
+## 📌 Pinned Projects
 
-| # | Area | What |
-|---|------|------|
-| 01 | Production APIs | Django + DRF, auth, rate-limiting, full test suites |
-| 02 | Search pipelines | Elasticsearch indexing and query optimisation |
-| 03 | Async workers | RabbitMQ + Celery task queues, Redis caching |
+<p align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-1&theme=monokai)](https://github.com/hakimizz-tech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-2&theme=monokai)](https://github.com/hakimizz-tech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-3&theme=monokai)](https://github.com/hakimizz-tech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hakimizz-tech&repo=your-repo-4&theme=monokai)](https://github.com/hakimizz-tech)
+
+</p>
 
 ---
 
-```
-// stack
-```
+## ✍️ Writing
 
-**Languages** &nbsp;&nbsp; `Python` `TypeScript` `JavaScript` `CSS`
+I write about Python, backend systems, and software engineering on Medium — Django, REST design,
+Elasticsearch, and things I've learned shipping to production.
 
-**Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Django` `DRF` `Flask` `Gunicorn` `Nginx`
+→ [medium.com/@joshuakim408](https://medium.com/@joshuakim408)
 
-**Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `React` `Tailwind` `Vite` `Redux` `React Hook Form`
+---
 
-**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`PostgreSQL` `MySQL` `MongoDB` `Redis` `Elasticsearch`
+<p align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hakimizz-tech&rank_icon=percentile&show_icons=true&theme=monokai&card_width=230&include_all_commits=true" align="center"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hakimizz-tech&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&card_width=240" align="center"/>
+</p>
 
-**Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`RabbitMQ` `Apache` `Streamlit`
+[![Joshua's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hakimizz-tech&theme=react-dark&area=true&hide_border=true&color=ffc845)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+---
 
-```
-// writing
-```
+🟢 **Open to work and collaboration** — reach me at [joshuakim408@gmail.com](mailto:joshuakim408@gmail.com)
 
-Python · backend · systems → [medium.com/@joshuakim408](https://medium.com/@joshuakim408)
-
-
-
-```
-// links
-```
-
-[LinkedIn](https://www.linkedin.com/in/joshua-kimathi-hakeem) &nbsp;·&nbsp;
-[Email](mailto:joshuakim408@gmail.com) &nbsp;·&nbsp;
-[GitHub](https://github.com/hakimizz-tech)
+------
+Credit: [hakimizz-tech](https://github.com/hakimizz-tech)  
+Last Edited on: 2026
