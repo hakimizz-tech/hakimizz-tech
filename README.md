@@ -1,53 +1,59 @@
-<!-- Joshua Kimathi — GitHub Profile README -->
+```
+> whoami
+```
 
-**Software engineer · Nairobi, KE**
+# Joshua Kimathi
 
-## Joshua Kimathi
+**software engineer · nairobi, ke**
 
-I build backend systems with Python — Django, Flask, DRF. Currently focused on distributed architecture, search infrastructure with Elasticsearch, and async workflows with RabbitMQ. Open to collaboration on Python and TypeScript projects.
+I build backend systems with Python. Mostly Django and Flask —
+production APIs, async workers, search infrastructure. When the backend needs a face,
+I reach for React and TypeScript. Open to collaboration on Python and JavaScript projects.
 
----
-
-## Currently building
-
-| | |
-|---|---|
-| 🔧 **REST APIs** | Django + DRF, production-grade |
-| 🔍 **Search infra** | Elasticsearch pipelines |
-| ⚛️ **Full-stack apps** | React + TypeScript frontends |
+🟢 &nbsp;**Available for work & collaboration**
 
 ---
 
-## Tech stack
+```
+// currently building
+```
 
-**Languages**
-`Python` `TypeScript` `JavaScript`
-
-**Backend**
-`Django` `Django REST Framework` `Flask` `Gunicorn` `Nginx`
-
-**Frontend**
-`React` `Tailwind CSS` `Vite` `Redux`
-
-**Data**
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `Elasticsearch`
-
-**Infra**
-`RabbitMQ` `Apache` `Streamlit`
+| # | Area | What |
+|---|------|------|
+| 01 | Production APIs | Django + DRF, auth, rate-limiting, full test suites |
+| 02 | Search pipelines | Elasticsearch indexing and query optimisation |
+| 03 | Async workers | RabbitMQ + Celery task queues, Redis caching |
 
 ---
 
-## Writing
+```
+// stack
+```
 
-I write about Python, backend systems, and software engineering on Medium.
-→ [medium.com/@joshuakim408](https://medium.com/@joshuakim408)
+**Languages** &nbsp;&nbsp; `Python` `TypeScript` `JavaScript` `CSS`
+
+**Backend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Django` `DRF` `Flask` `Gunicorn` `Nginx`
+
+**Frontend** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `React` `Tailwind` `Vite` `Redux` `React Hook Form`
+
+**Data** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`PostgreSQL` `MySQL` `MongoDB` `Redis` `Elasticsearch`
+
+**Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`RabbitMQ` `Apache` `Streamlit`
 
 ---
 
-## Links
+```
+// writing
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-kimathi-hakeem)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuakim408@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@joshuakim408)
+Python · backend · systems → [medium.com/@joshuakim408](https://medium.com/@joshuakim408)
 
-> 🟢 **Open to work** — available for freelance and collaboration on Python and TypeScript projects.
+---
+
+```
+// links
+```
+
+[LinkedIn](https://www.linkedin.com/in/joshua-kimathi-hakeem) &nbsp;·&nbsp;
+[Email](mailto:joshuakim408@gmail.com) &nbsp;·&nbsp;
+[GitHub](https://github.com/hakimizz-tech)
