@@ -1,4 +1,4 @@
-# 🐍 Joshua Kimathi @hakimizz-tech
+#  🐢 Joshua Kimathi <@hakimizz-tech>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -18,18 +18,30 @@
 </p>
 
 ```
-Digital Craftsman: (Backend Engineer / Problem Solver / Open Source Enthusiast)...
+Digital Craftsman: (Creator/Programmer/Problem Solver)...
 
- ██╗  ██╗ █████╗ ██╗  ██╗██╗███╗   ███╗██╗███████╗███████╗
- ██║  ██║██╔══██╗██║ ██╔╝██║████╗ ████║██║╚══███╔╝╚════██║
- ███████║███████║█████╔╝ ██║██╔████╔██║██║  ███╔╝     ██╔╝
- ██╔══██║██╔══██║██╔═██╗ ██║██║╚██╔╝██║██║ ███╔╝     ██╔╝
- ██║  ██║██║  ██║██║  ██╗██║██║ ╚═╝ ██║██║███████╗   ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚═╝╚══════╝   ╚═╝
+██╗  ██╗ █████╗ ██╗  ██╗███████╗███████╗███╗   ███╗
+██║  ██║██╔══██╗██║ ██╔╝██╔════╝██╔════╝████╗ ████║
+███████║███████║█████╔╝ █████╗  █████╗  ██╔████╔██║
+██╔══██║██╔══██║██╔═██╗ ██╔══╝  ██╔══╝  ██║╚██╔╝██║
+██║  ██║██║  ██║██║  ██╗███████╗███████╗██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝
 ```
 
 <p>
-Hello! I'm a software engineer based in Nairobi, Kenya. I love building backend systems that solve real problems — mostly with Python, Django, and Flask. When the backend needs a face I reach for React and TypeScript. Outside of code I play guitar, hit the gym, and write about what I'm learning. My technical interests include distributed systems, search infrastructure, web development, and open source.
+Hello! I'm a 20-year-old software engineer based in Nairobi, Kenya. I build backend
+systems with Python — Django, Flask, and DRF — and reach for React and TypeScript
+when the backend needs a face.
+
+Outside of web development, I write about what I'm building and learning on Medium.
+When I'm not coding: guitar, the gym, and the occasional rabbit hole into mathematics.
+
+I'm always looking for interesting projects and people to collaborate with. Check out
+my repositories — if something catches your eye or you think I'd be a good fit for
+what you're working on, reach out.
+
+Visit my Medium page where I write about Python, backend systems, and software
+engineering: medium.com/@joshuakim408
 </p>
 
 <img align="right" width="250" height="250" src="https://github.com/Rishit-dagli/Rishit-dagli/raw/master/images/octocat-anime.gif">
