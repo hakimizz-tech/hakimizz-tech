@@ -40,7 +40,7 @@ I reach for React and TypeScript. Open to collaboration on Python and JavaScript
 
 **Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`RabbitMQ` `Apache` `Streamlit`
 
----
+
 
 ```
 // writing
@@ -48,7 +48,7 @@ I reach for React and TypeScript. Open to collaboration on Python and JavaScript
 
 Python · backend · systems → [medium.com/@joshuakim408](https://medium.com/@joshuakim408)
 
----
+
 
 ```
 // links
