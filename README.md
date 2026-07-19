@@ -72,7 +72,6 @@ misc_interests:
 goals:
   - "Ship something every day"
   - "Contribute consistently to open source"
-  - "Land a senior engineering role"
 ```
 
 <table style="width:100%">
